@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="portada">
+    <file>logo.png</file>
+  </qresource>
+  <qresource prefix="viniq">
+    <file>edit.png</file>
+    <file>viniq.webp</file>
+  </qresource>
+</RCC>
